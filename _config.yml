@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
+permalink: /:categories/:year/:month/:day/:title
+title: Pedro
+include: ['_pages']
+email: pedro.zuidbergdosmartires@cs.kuleuven.be
+github_username: pedrozudo
