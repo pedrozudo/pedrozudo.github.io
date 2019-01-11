@@ -16,7 +16,7 @@ permalink:
       </p>
 
       <p>
-         On the practical side, I do also try, within the <a href="reground.cs.kuleuven.be/" target="_blank">ReGROUND project</a>, to apply probabilistic logic programming to the field of robotics. As the sensor data through which a robot perceives the world is inherently noisy, robotics is predestined for probabilistic programming. Adding a logic component to it, allows a robot to reason about the world on a symbolic level while using raw sensor data.
+         On the practical side, I do also try, within the <a href="www.reground.cs.kuleuven.be/" target="_blank">ReGROUND project</a>, to apply probabilistic logic programming to the field of robotics. As the sensor data through which a robot perceives the world is inherently noisy, robotics is predestined for probabilistic programming. Adding a logic component to it, allows a robot to reason about the world on a symbolic level while using raw sensor data.
       </p>
 
       <p>
