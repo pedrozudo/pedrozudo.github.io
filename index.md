@@ -69,7 +69,7 @@ permalink:
             as developer:
             <ul style="list-style-type:circle">
                <li> <a href="https://bitbucket.org/pedrozudo/hal_problog" target="_blank">HAL-ProbLog</a>: A probabilistic programming language that extends <a href="https://dtai.cs.kuleuven.be/problog/">ProbLog</a> with continuous random variables that I am currently developing. The language is currently in alpha.</li>
-               <li> <a href="https://github.com/samuelkolb/pywmi" target="_blank">pywmi</a>: I have also contributed to the pywmi toolbox, which allows you solve <em>weighted model integration</em>  problems using different solvers.</li>
+               <li> <a href="https://github.com/samuelkolb/pywmi" target="_blank">pywmi</a>: I have also contributed to the pywmi toolbox, which allows you to solve <em>weighted model integration</em>  problems using different solvers.</li>
                <li> <a href="https://github.com/ML-KULeuven/psipy" target="_blank">psipy</a>: A python wrapper for the probabilistic symbolic inference engine used in the <a href="https://psisolver.org/" target="_blank">PSI-Solver</a>. </li>
                <li> <a href="https://github.com/ML-KULeuven/PyDC/" target="_blank">PyDC</a>: A python wrapper for the probabilistic programming language <a href="https://bitbucket.org/problog/dc_problog/src/master/" target="_blank">Distributional Clauses</a>. </li>
                <li> <a href="https://github.com/pedrozudo/MathGenGraph" target="_blank">MathGenGraph</a>: A small tool that lets you find out about your academic genealogy by scraping the <a href="https://www.genealogy.math.ndsu.nodak.edu/">Mathematics Genealogy Project</a>. </li>
