@@ -12,11 +12,11 @@ permalink:
          I am currently a PhD student under the supervion of  <a href="https://people.cs.kuleuven.be/~luc.deraedt/" target="_blank">Luc De Raedt</a> in the <a href="http://dtai.cs.kuleuven.be/" target="_blank">DTAI Lab</a> at the KU Leuven.
       </p>
       <p>
-         In my research I focus on <em>probabilistic programming</em> in general, and more specifically on <em>probabilistic logic programming</em>. Probabilistic programing allows on to coherently incorporate uncertainty and noise in the data science and machine learning models. However, general inference in probabilistic programs is a computationally hard task. I try to figure out smart ways of combining recent advances from different fields, such as <em>knowledge compilation</em>, <em>symbolic inference</em> and <em>deep Bayesian modeling</em> to alleviate this hardness.
+         In my research I focus on <em>probabilistic programming</em> in general, and more specifically on <em>probabilistic logic programming</em>. Probabilistic programing allows one to coherently incorporate uncertainty and noise in data science and machine learning models. However, general inference in probabilistic programs is a computationally hard task. I try to figure out smart ways of combining recent advances from different fields, such as <em>knowledge compilation</em>, <em>symbolic inference</em> and <em>deep Bayesian modeling</em> to alleviate this hardness.
       </p>
 
       <p>
-         On the practical side, I do also try, within the <a href="reground.cs.kuleuven.be/" target="_blank">ReGROUND project</a>, to apply probabilistic logic programming to the field of robotics. Robotics is predestined for probabilistic programming as the sensor data through which a robot perceives the world is inherently noisy. Adding logic to it allows, moreover, a robot to reason about the world on a symbolic level while using raw sensor data.
+         On the practical side, I do also try, within the <a href="reground.cs.kuleuven.be/" target="_blank">ReGROUND project</a>, to apply probabilistic logic programming to the field of robotics. As the sensor data through which a robot perceives the world is inherently noisy, robotics is predestined for probabilistic programming. Adding a logic component to it, allows a robot to reason about the world on a symbolic level while using raw sensor data.
       </p>
 
       <p>
