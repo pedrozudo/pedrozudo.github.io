@@ -35,7 +35,7 @@ permalink:
       <li>
          <first_author>Pedro Zuidberg Dos Martires</first_author>, Anton Dries, Luc De Raedt. <paper>Exact and Approximate Weighted Model Integration with
          Probability Density Functions Using Knowledge Compilation.</paper> In Proceedings of the 30th Conference on Artificial Intelligence (2019).
-         [<a href="docs/aaai19/WMI_via__KC__AAAI_2019.pdf" target="_blank">pdf</a>,
+         [<a href="docs/aaai19/WMI_via_KC_AAAI_2019.pdf" target="_blank">pdf</a>,
           <a href="docs/aaai19/WMI_via_KC_AAAI_2019_poster.pdf" target="_blank">poster</a>,
           <a href="docs/aaai19/WMI_via_KC_AAAI_2019_slides.pdf" target="_blank">slides</a>]
       </li>
