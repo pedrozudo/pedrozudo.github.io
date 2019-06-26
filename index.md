@@ -33,6 +33,18 @@ permalink:
    <h1 id="publications">publications</h1>
    <ul>
       <li>
+          Samuel Kolb, <first_author>Pedro Zuidberg Dos Martires</first_author>, Luc De Raedt. <paper>How to Exploit Structure while Solving Weighted Model Integration Problems.</paper> In Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI) (2019).
+         <!-- [<a href="docs/robosplu19/document.pdf" target="_blank">pdf</a>] -->
+      </li>
+      <li>
+         Ozan Arkan Can,  <first_author>Pedro Zuidberg Dos Martires</first_author>, Andreas Persson, Julian Gaal, Amy Loutfi, Luc De Raedt, Deniz Yuret, Alessandro Saffiotti. <paper>Learning from Implicit Information in Natural Language Instructions for Robotic Manipulations.</paper> In Proceedings of the Combined Workshop on Spatial Language Understanding (SpLU) and Grounded Communication for Robotics (RoboNLP) (2019).
+         [<a href="docs/robosplu19/document.pdf" target="_blank">pdf</a>]
+      </li>
+      <li>
+         Andreas Persson, <first_author>Pedro Zuidberg Dos Martires</first_author>, Luc De Raedt, Amy Loutfi. <paper>Semantic Relational Object Tracking.</paper> In IEEE Transactions on Cognitive and Developmental Systems (2019).
+         [<a href="docs/relationalsemantic_ieee/08744391.pdf" target="_blank">pdf</a>]
+      </li>
+      <li>
          <first_author>Pedro Zuidberg Dos Martires</first_author>, Anton Dries, Luc De Raedt. <paper>Exact and Approximate Weighted Model Integration with
          Probability Density Functions Using Knowledge Compilation.</paper> In Proceedings of the 30th Conference on Artificial Intelligence (2019).
          [<a href="docs/aaai19/WMI_via_KC_AAAI_2019.pdf" target="_blank">pdf</a>,

@@ -333,3 +333,27 @@ section {
     display: none;
   }
 }
+
+ol.bibliography { list-style-type: none}
+ol.bibliography > li:before{content: "["counter(bibitem)"]"; margin-left: -60px; margin-right: 10px; min-width: 50px; display: inline-block; text-align: right;}
+ol.bibliography > li {counter-increment: bibitem -1 ;}
+
+
+.bib_collapsible {
+  border: none;
+  background-color: #252525;
+  color:#ffcc00;
+  font-weight:400;
+  text-decoration:none;
+  outline: none;
+  width:30px;
+}
+
+.active, .collapsible:hover {
+}
+
+// .content {
+//   display: none;
+//   overflow: hidden;
+//   background-color: #f1f1f1;
+// }

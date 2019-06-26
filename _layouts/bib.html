@@ -1,0 +1,22 @@
+---
+---
+<!-- {{ reference }} -->
+
+
+
+
+
+ <!-- <button class="collapsible">Open Collapsible</button>
+<div class="content">
+  <pre>{{ entry.bibtex }}</pre>
+</div> -->
+
+    <!-- <div class="dropDownBibtex" id="{{key}}-bibtex">
+    <pre>{{entry.bibtex}}</pre>
+    </div> -->
+<hr>
+   {% capture numJournalPapers %}
+   {% bibliography_count --group_by year --group_order descending %}
+   {% endcapture %}
+   <h1 class="bibliography" id="publications" style="counter-reset:bibitem {{numJournalPapers|plus:1}}">publications</h1>
+   {% bibliography %}
