@@ -33,6 +33,12 @@ permalink:
    <h1 id="publications">publications</h1>
    <ul>
       <li>
+          <first_author>Pedro Zuidberg Dos Martires</first_author>. <paper>Differentiation and Weighted Model Integration.</paper> DeCoDeML Workshop @ ECML/PKDD (2019).
+         [<a href="docs/decodeml19/grad_wmi_DeCoDeML_2019.pdf" target="_blank">pdf</a>,
+         <a href="docs/decodeml19/grad_wmi_DeCoDeML_2019_poster.pdf" target="_blank">poster</a>,
+         <a href="docs/decodeml19/grad_wmi_DeCoDeML_2019_slides.pdf" target="_blank">slides</a>]
+      </li>
+      <li>
           Samuel Kolb, <first_author>Pedro Zuidberg Dos Martires</first_author>, Luc De Raedt. <paper>How to Exploit Structure while Solving Weighted Model Integration Problems.</paper> In Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI) (2019).
          [<a href="docs/uai19/wmi_UAI19.pdf" target="_blank">pdf</a>,
          <a href="docs/uai19/uai_poster_highres.pdf" target="_blank">poster</a>]
