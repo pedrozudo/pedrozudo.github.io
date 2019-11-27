@@ -44,6 +44,10 @@ permalink:
          <a href="docs/uai19/uai_poster_highres.pdf" target="_blank">poster</a>]
       </li>
       <li>
+          Samuel Kolb, Paolo Morettin, <first_author>Pedro Zuidberg Dos Martires</first_author>, Francesco Sommavilla, Andrea Passerini, Roberto Sebastiani, Luc De Raedt. <paper>The pywmi Framework and Toolbox for Probabilistic Inference using Weighted Model Integration.</paper> In Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence Demos (IJCAI) (2019).
+         [<a href="docs/ijcai19/pywmi_IJCAI19.pdf" target="_blank">pdf</a>]
+      </li>
+      <li>
          Ozan Arkan Can,  <first_author>Pedro Zuidberg Dos Martires</first_author>, Andreas Persson, Julian Gaal, Amy Loutfi, Luc De Raedt, Deniz Yuret, Alessandro Saffiotti. <paper>Learning from Implicit Information in Natural Language Instructions for Robotic Manipulations.</paper> In Proceedings of the Combined Workshop on Spatial Language Understanding (SpLU) and Grounded Communication for Robotics (RoboNLP) (2019).
          [<a href="docs/robosplu19/document.pdf" target="_blank">pdf</a>]
       </li>
