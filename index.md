@@ -33,6 +33,10 @@ permalink:
    <h1 id="publications">publications</h1>
    <ul>
       <li>
+          <first_author>Pedro Zuidberg Dos Martires</first_author> , Vincent Derkinderen, Robin Manhaeve, Wannes Meert, Angelika Kimmig, Luc De Raedt. <paper>Transforming Probabilistic Programs into Algebraic Circuits for Inference and Learning.</paper> Program Transformations for ML Workshop @ NeurIPS (2019).
+         [<a href="docs/ProgramTransformationsforML19/transforming_probabilistic_programs_into_algebraic_circuits_for_inference_and_learning.pdf" target="_blank">pdf</a>]
+      </li>
+      <li>
           <first_author>Pedro Zuidberg Dos Martires</first_author>. <paper>Differentiation and Weighted Model Integration.</paper> DeCoDeML Workshop @ ECML/PKDD (2019).
          [<a href="docs/decodeml19/grad_wmi_DeCoDeML_2019.pdf" target="_blank">pdf</a>,
          <a href="docs/decodeml19/grad_wmi_DeCoDeML_2019_poster.pdf" target="_blank">poster</a>,
