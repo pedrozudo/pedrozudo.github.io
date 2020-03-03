@@ -27,11 +27,14 @@ permalink:
 </div>
 
 
-
 <div style= "clear: both">
 <hr>
    <h1 id="publications">publications</h1>
    <ul>
+      <li>
+          <first_author>Pedro Zuidberg Dos Martires</first_author> , Samuel Kolb. <paper>Monte Carlo Anti-Differentiation for Approximate Weighted Model Integration.</paper> In 9th workshop on Statistical Relational Artificial Intelligence StarAI (at AAAI 2020).
+         [<a href="docs/starai20/monte_carlo_anti.pdf" target="_blank">pdf</a>]
+      </li>
       <li>
           <first_author>Pedro Zuidberg Dos Martires</first_author> , Vincent Derkinderen, Robin Manhaeve, Wannes Meert, Angelika Kimmig, Luc De Raedt. <paper>Transforming Probabilistic Programs into Algebraic Circuits for Inference and Learning.</paper> Program Transformations for ML Workshop @ NeurIPS (2019).
          [<a href="docs/ProgramTransformationsforML19/transforming_probabilistic_programs_into_algebraic_circuits_for_inference_and_learning.pdf" target="_blank">pdf</a>]
