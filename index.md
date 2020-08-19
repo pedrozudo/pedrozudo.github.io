@@ -32,15 +32,19 @@ permalink:
    <h1 id="publications">publications</h1>
    <ul>
       <li>
+         Andreas Persson, <first_author>Pedro Zuidberg Dos Martires</first_author>, Luc De Raedt, Amy Loutfi. <paper>ProbAnch: a Modular Probabilistic Anchoring Framework.</paper> In Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence Demos (IJCAI) (2020).
+         [<a href="docs/20_ijcai/probanch.pdf" target="_blank">pdf</a>]
+      </li>
+      <li>
          Vincent Derkinderen, Evert Heylen, <first_author>Pedro Zuidberg Dos Martires</first_author>, Samuel Kolb,  Luc De Raedt. <paper>Ordering Variables for Weighted Model Integration.</paper> In Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI) (2020).
          [<a href="docs/20_uai/ordering.pdf" target="_blank">pdf</a>]
       </li>
       <li>
-         <first_author>Pedro Zuidberg Dos Martires</first_author>, Nitesh Kumar, Andreas Persson, Amy Loutfi,  Luc De Raedt. <paper>Symbolic Learning and Reasoning With Noisy Data for Probabilistic Anchoring.</paper> Frontiers in Robotics and AI (July 2020).
+         <first_author>Pedro Zuidberg Dos Martires</first_author>, Nitesh Kumar, Andreas Persson, Amy Loutfi,  Luc De Raedt. <paper>Symbolic Learning and Reasoning With Noisy Data for Probabilistic Anchoring.</paper> Frontiers in Robotics and AI (2020).
          [<a href="docs/20_frontiers/symbolic.pdf" target="_blank">pdf</a>]
       </li>
       <li>
-          <first_author>Pedro Zuidberg Dos Martires</first_author> , Samuel Kolb. <paper>Monte Carlo Anti-Differentiation for Approximate Weighted Model Integration.</paper> In 9th workshop on Statistical Relational Artificial Intelligence StarAI (at AAAI 2020).
+          <first_author>Pedro Zuidberg Dos Martires</first_author> , Samuel Kolb. <paper>Monte Carlo Anti-Differentiation for Approximate Weighted Model Integration.</paper> In 9th workshop on Statistical Relational Artificial Intelligence StarAI @ AAAI (2020).
          [<a href="docs/starai20/monte_carlo_anti.pdf" target="_blank">pdf</a>]
       </li>
       <li>
