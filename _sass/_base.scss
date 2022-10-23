@@ -253,7 +253,7 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
     a {
       i::before {
         color: var(--global-text-color);
@@ -485,6 +485,16 @@ footer.sticky-bottom {
     margin-bottom: -2rem;
     text-align: right;
   }
+
+  h2.pubtype {
+    color: var(--global-divider-color);
+    border-top: 1px solid var(--global-divider-color);
+    padding-top: 1rem;
+    margin-top: 2rem;
+    margin-bottom: -0rem;
+    text-align: right;
+  }
+
   ol.bibliography {
     list-style: none;
     padding: 0;
@@ -531,6 +541,7 @@ footer.sticky-bottom {
         > em {
           border-bottom: 1px solid;
           font-style: normal;
+          text-decoration: underline;
         }
         > span.more-authors {
           color: var(--global-text-color-light);

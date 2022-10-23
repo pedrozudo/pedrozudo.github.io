@@ -1,34 +1,53 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Kimmig":
+  - firstname: ["Angelika", "A."]
+    url: https://people.cs.kuleuven.be/~angelika.kimmig/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Meert":
+  - firstname: ["Wannes", "W."]
+    url: https://people.cs.kuleuven.be/~wannes.meert/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"De Raedt":
+  - firstname: ["Luc", "L."]
+    url: https://wms.cs.kuleuven.be/people/lucderaedt/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Loutfi":
+  - firstname: ["Amy", "A."]
+    url: https://mpi.aass.oru.se/amy-loutfi/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Passerini":
+  - firstname: ["Andrea", "A."]
+    url: https://disi.unitn.it/~passerini/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Derkinderen":
+  - firstname: ["Vincent", "V."]
+    url: https://vincentderk.github.io
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Morettin":
+  - firstname: ["Paolo", "P."]
+    url: https://paolomorettin.github.io/
+
+"Dumancic":
+  - firstname: ["Sebastijan", "S."]
+    url: https://sebdumancic.github.io/
+
+"Manhaeve":
+  - firstname: ["Robin", "M."]
+    url: https://people.cs.kuleuven.be/~robin.manhaeve/
+
+"Venturato":
+  - firstname: ["Gabriele", "G."]
+    url: https://gabventurato.github.io/
+
+"Kumar":
+  - firstname: ["Nitesh", "N."]
+    url: https://sites.google.com/view/niteshroyal
+
+"Yuret":
+  - firstname: ["Deniz", "D."]
+    url: http://www.denizyuret.com/
+
+"Saffiotti":
+  - firstname: ["Alessandro", "A."]
+    url: http://130.243.105.49/~asaffio/
