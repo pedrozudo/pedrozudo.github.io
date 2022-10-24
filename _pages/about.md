@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+subtitle: postdoctoral researcher in aritifial intelligence
 
 profile:
   align: left
