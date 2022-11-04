@@ -1,7 +1,7 @@
 ---
 ---
 <!-- _layouts/bib.html -->
-        <div id="{{entry.key}}" class="col-sm-9">
+      <div id="{{entry.key}}" class="col-sm-9">
         {% if entry.type == "thesis" -%}
           {{reference}}
         {%- else %}
@@ -104,12 +104,12 @@
           </div>
         {%- endif %}
         
-          <!-- Links/Buttons -->
-          {% assign publication_path = '/' | prepend: entry.key | prepend: '/' | prepend: entry.year | prepend: '/assets/documents/publications/' %}
-          {% assign publication_path_url = publication_path | prepend: site.baseurl | prepend: site.url %}
+        <!-- Links/Buttons -->
+        {% assign publication_path = '/' | prepend: entry.key | prepend: '/' | prepend: entry.year | prepend: '/assets/documents/publications/' %}
+        {% assign publication_path_url = publication_path | prepend: site.baseurl | prepend: site.url %}
 
-          <div class="links">
-            {% for static_file in site.static_files %}
+        <div class="links">
+          {% for static_file in site.static_files %}
             {% assign paper_path = 'paper.pdf' | prepend: publication_path %}
             {% if static_file.path == paper_path %}
               <a href="{{ 'paper.pdf' | prepend: publication_path_url }}" target="_blank" class="abstract btn btn-sm z-depth-0" role="button">
@@ -117,8 +117,8 @@
               </a> 
             {% endif %}
           {% endfor %}
-          
-          
+        
+        
           {% for static_file in site.static_files %}
             {% assign appendix_path = 'appendix.pdf' | prepend: publication_path %}
             {% if static_file.path == appendix_path %}
@@ -129,21 +129,22 @@
           {% endfor %}
 
 
-        {%- if entry.url %}
-          <a href="{{entry.url}}" class="btn btn-sm z-depth-0" role="button">link</a>
-        {%- endif %}
+          {%- if entry.url %}
+            <a href="{{entry.url}}" class="btn btn-sm z-depth-0" role="button">link</a>
+          {%- endif %}
 
           {%- if entry.arxiv %}
-            <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+            <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arxiv</a>
           {%- endif %}
-            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+          
+          <a class="bibtex btn btn-sm z-depth-0" role="button">bibtex</a>
 
-          </div>
+        </div>
 
  
 
-          <!-- Hidden bibtex block -->
-          <div class="bibtex hidden">
+        <!-- Hidden bibtex block -->
+        <div class="bibtex hidden">
             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
-          </div>
         </div>
+      </div>
