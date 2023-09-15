@@ -19,14 +19,8 @@ social: true  # includes social icons at the bottom of the page
 
 
 I am a postdoctoral researcher in the [MPI Lab](https://mpi.aass.oru.se/){:target="\_blank"} at Örebro University, Sweden.
-Broadly speaking, my research interests lie with artificial intelligence and machine learning, while having a focus on probabilistic programming.
-My overarching scientific goal is to develop systems that are capable of reasoning and learning with raw sensor data.
-In order to achieve this, I believe in the necessity of a holistic approach, which is also reflected in my specific research activities --
-ranging
-from probabilistic inference with discrete and continuous variables,
-over formal probabilistic logic programming,
-to cognitive robotics.
-Recently, I have also started exploring neuro-symbolic techniques in order to combine symbolic and subsymbolic representations of the world.
+Broadly speaking, my research interests lie with artificial intelligence and machine learning, with a specialized emphasis on neuro-symbolic methods. In essence, my work involves harmonizing formal models of the world, usually provided by domain experts or grounded in scientific theories, with powerful function approximators like neural networks.
+My overarching scientific objective centers on the development of systems capable of both reasoning and learning when confronted with raw sensory data. To attain this ambitious goal, I advocate for a comprehensive approach, a philosophy also in my diverse research activities. These activities span a spectrum that encompasses, inter alia, probabilistic inference with discrete-continuous data, neuro-probabilistic programming, and cognitive robotics.
 
 
 Prior to joining the Örebro University i was a postdoctoral fellow and PhD student in the [DTAI Lab](http://dtai.cs.kuleuven.be/){:target="\_blank"} at the KU Leuven, Belgium, where I also obtained my PhD
