@@ -132,6 +132,10 @@
     <a href="{{entry.url}}" class="btn btn-sm z-depth-0" role="button">link</a>
     {%- endif %}
 
+    {%- if entry.website %}
+    <a href="{{entry.website}}" class="btn btn-sm z-depth-0" role="button">link</a>
+    {%- endif %}
+
     {%- if entry.arxiv %}
     <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arxiv</a>
     {%- endif %}
