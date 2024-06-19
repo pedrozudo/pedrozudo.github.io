@@ -146,8 +146,15 @@
 
 
 
-  <!-- Hidden bibtex block -->
+
   <div class="bibtex hidden">
-    {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
+    <div class="bibtex-content">
+      {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
+    </div>
+    <!-- Copy icon within the dropdown -->
+    <!-- <i class="fas fa-copy" id="copyIcon"></i> -->
   </div>
 </div>
+
+
+
