@@ -225,7 +225,6 @@
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
-        <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
 
       {% if entry.html %}
         {% if entry.html contains '://' %}
@@ -279,6 +278,10 @@
       {% if entry.url %}
         <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">link</a>
       {% endif %}
+
+      <a class="bibtex btn btn-sm z-depth-0" role="button">bib</a>
+
+
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}

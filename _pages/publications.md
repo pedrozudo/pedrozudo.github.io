@@ -20,12 +20,11 @@ nav_order: 1
 <div class="publications">
 {% for t in page.types %}
 <h2 class="year">{{t}}</h2>
-
-
-
-    {% bibliography -f papers -q @*[keywords={{t}}]* %}
-
-
+  {% for y in page.years %}
+    {% for m in page.months %}
+      {% bibliography -f papers -q @*[keywords={{t}},year={{y}},num_month={{m}}]* %}
+    {% endfor %}
+  {% endfor %}
 {% endfor %}
 
 
