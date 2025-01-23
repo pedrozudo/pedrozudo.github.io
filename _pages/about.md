@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: assistant professor in artificial intelligence
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: photo_pedro.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am an assistant professor in the [MPI Lab](https://mpi.aass.oru.se/){:target="\_blank"} at Örebro University, Sweden.
+Broadly speaking, my research interests lie with artificial intelligence and machine learning, with a specialized emphasis on neuro-symbolic methods. In essence, my work involves harmonizing formal models of the world, usually provided by domain experts or grounded in scientific theories, with powerful function approximators such as neural networks.
+My overarching scientific objective centers on the development of systems capable of both reasoning and learning when confronted with raw sensory data. To attain this ambitious goal, I advocate for a comprehensive approach, a philosophy also reflected in my diverse research activities. These activities span a spectrum that encompasses, inter alia, probabilistic inference with discrete-continuous data, neuro-probabilistic programming, and cognitive robotics.
+
+
+Prior to my appointment as assistant professor I spent already two years in the MPI Lab as a PostDoc. This was preceded by a postdoctoral fellowship in the [DTAI Lab](http://dtai.cs.kuleuven.be/){:target="\_blank"} at the KU Leuven, Belgium, where I also obtained my PhD
+under the supervision of [Luc De Raedt](https://wms.cs.kuleuven.be/people/lucderaedt){:target="\_blank"}.
+
+
+#### Selected Papers
+
+Asking a scholar for their favorite paper is like asking a parent for their favorite child...
