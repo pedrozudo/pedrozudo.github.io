@@ -18,11 +18,20 @@ nav_order: 1
 <!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
+{% for t in page.types %}
+<h2 class="year">{{t}}</h2>
 
-      {% bibliography %}
+
+
+    {% bibliography -f papers -q @*[keywords={{t}}]* %}
+
+
+{% endfor %}
 
 
 </div>
+
+
 
 
 
