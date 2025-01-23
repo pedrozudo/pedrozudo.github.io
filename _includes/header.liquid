@@ -56,6 +56,14 @@
             </a>
           </li>
 
+          <!-- CV link -->
+          <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
+            <a class="nav-link"
+              href="{{ '/assets/documents/pdf/pedro_curriculum.pdf' | prepend: site.baseurl | prepend: site.url }}"
+              target="_blank">vitae
+            </a>
+          </li>
+
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}

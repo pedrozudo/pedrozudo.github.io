@@ -1,34 +1,83 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"kimmig":
+  - firstname: ["Angelika", "A."]
+    url: https://people.cs.kuleuven.be/~angelika.kimmig/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"meert":
+  - firstname: ["Wannes", "W."]
+    url: https://people.cs.kuleuven.be/~wannes.meert/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"de raedt":
+  - firstname: ["Luc", "L."]
+    url: https://wms.cs.kuleuven.be/people/lucderaedt/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"loutfi":
+  - firstname: ["Amy", "A."]
+    url: https://mpi.aass.oru.se/amy-loutfi/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"passerini":
+  - firstname: ["Andrea", "A."]
+    url: https://disi.unitn.it/~passerini/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"derkinderen":
+  - firstname: ["Vincent", "V."]
+    url: https://vincentderk.github.io
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"morettin":
+  - firstname: ["Paolo", "P."]
+    url: https://paolomorettin.github.io/
+
+"dumancic":
+  - firstname: ["Sebastijan", "S."]
+    url: https://sebdumancic.github.io/
+
+"manhaeve":
+  - firstname: ["Robin", "M."]
+    url: https://people.cs.kuleuven.be/~robin.manhaeve/
+
+"venturato":
+  - firstname: ["Gabriele", "G."]
+    url: https://gabventurato.github.io/
+
+"kumar":
+  - firstname: ["Nitesh", "N."]
+    url: https://sites.google.com/view/niteshroyal
+
+"yuret":
+  - firstname: ["Deniz", "D."]
+    url: http://www.denizyuret.com/
+
+"saffiotti":
+  - firstname: ["Alessandro", "A."]
+    url: http://130.243.105.49/~asaffio/
+
+"persson":
+  - firstname: ["Andreas", "A."]
+    url: https://www.oru.se/english/employee/andreas_persson
+
+"marra":
+  - firstname: ["Giuseppe", "G."]
+    url: https://www.giuseppemarra.com/
+
+"sansone":
+  - firstname: ["Emanuele", "E."]
+    url: https://emsansone.github.io/
+
+"hazra":
+  - firstname: ["Rishi", "R."]
+    url: https://rishihazra.github.io/
+
+"de smet":
+  - firstname: ["Lennert", "L."]
+    url: https://lennertdesmet.github.io/
+
+"krantz":
+- firstname: ["Marcus", "M."]
+  url: https://www.oru.se/english/employee/marcus_krantz
+
+"maene":
+- firstname: ["Jaron", "J."]
+  url: https://maene.dev/
+
+    
